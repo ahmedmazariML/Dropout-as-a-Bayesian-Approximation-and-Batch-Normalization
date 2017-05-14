@@ -5,11 +5,11 @@ Comparative study : Dropout as a Bayesian Approximation and Batch Normalization
 ization techniques are provided : dropout and batch normalization. Up to know, dropout remains the most popular
 choice for simplicity . Besides, batch normalization outperforms state of art performance in computer vision and
 eliminates the need of dropout.
-However, dropout oers insight into the model uncertainty of the deep neural
-network when it is performed during testing and it can be seen as a bayesian Approximation.We rst give a general
-introduction to over-tting and regularization. Then, we show how dropout captures model uncertainty and how
-batch normalization x the input distribution, and allows deep learning models to learn faster (fast regularization).
-After that, we discuss the results obtains by both method in dierent application domains. Finally, we give our
+However, dropout offers insight into the model uncertainty of the deep neural
+network when it is performed during testing and it can be seen as a bayesian Approximation.We first give a general
+introduction to overfitting and regularization. Then, we show how dropout captures model uncertainty and how
+batch normalization fixes the input distribution, and allows deep learning models to learn faster (fast regularization).
+After that, we discuss the results obtains by both method in different application domains. Finally, we give our
 intuition about it and our perspectives.
 
 Original papers : 
